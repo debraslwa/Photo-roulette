@@ -8,7 +8,7 @@ $(function(){
     var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
-    var keywords = 'Western Australia';
+    var keywords = 'Fremantle';
     // How you want to combine keywords -- all, any, or phrase
     var keywordType = 'all'
     // Limit to a particular year
