@@ -3,7 +3,7 @@ $(function(){
 
     // YOU MUST EDIT THIS SECTION
     // You must supply a Trove API key
-    var troveAPIKey = 'he2In1f3fkf7iefk';
+    var troveAPIKey = 'GJcDfF376bSeSYRblsaDo6RjJkjl';
     // Either provide full API query here or include options below
     var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
